@@ -1,0 +1,36 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+SysInfo.txt
+*.stackdump
+
+# Visual Studio cache
+.vs/
+*.user
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+*.pidb
+*.booproj
+
+# Unity auto-generated files
+ExportedObj/
+*.unitypackage
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# Crash logs
+*.dmp
